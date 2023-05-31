@@ -19,3 +19,5 @@ class NotesApplication : Application() {
     dependencyInjector = DependencyInjector(this)
   }
 }
+
+//READ ME lab 7 last change

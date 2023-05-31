@@ -39,3 +39,5 @@ class SplashActivity : AppCompatActivity() {
     }, 2000)
   }
 }
+
+//READ ME lab 7 last change

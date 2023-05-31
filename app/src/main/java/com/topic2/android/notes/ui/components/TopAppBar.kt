@@ -319,3 +319,5 @@ fun PickedColorPreview(){
     PickedColor(ColorModel.DEFAULT)
 
 }
+
+//READ ME lab 7 last change

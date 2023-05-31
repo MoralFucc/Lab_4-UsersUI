@@ -43,3 +43,5 @@ fun NoteColor(
 fun NoteColorPreview(){
     NoteColor(color = Color.Red, size = 40.dp, border = 2.dp)
 }
+
+//READ ME lab 7 last change

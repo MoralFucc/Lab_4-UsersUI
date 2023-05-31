@@ -205,3 +205,5 @@ private fun mapDialogText(dialog: Int): String = when (dialog) {
     PERMANENTLY_DELETE_DIALOG -> "Are you sure you want to delete selected notes permanently?"
     else -> throw RuntimeException("Dialog not supported: $dialog")
 }
+
+//READ ME lab 7 last change

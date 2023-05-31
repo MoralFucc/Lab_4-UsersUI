@@ -108,3 +108,5 @@ class MainViewModel(private val repository: Repository) : ViewModel() {
         }
     }
 }
+
+//READ ME lab 7 last change

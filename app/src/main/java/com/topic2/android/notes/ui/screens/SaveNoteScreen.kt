@@ -29,8 +29,8 @@ import com.topic2.android.notes.routing.NotesRouter
 import com.topic2.android.notes.routing.Screen
 import com.topic2.android.notes.ui.components.NoteColor
 import com.topic2.android.notes.ui.fromHex
+import com.topic2.android.notes.viewmodel.MainViewModel
 import kotlinx.coroutines.launch
-import screens.MainViewModel
 
 @Composable
 @ExperimentalMaterialApi
